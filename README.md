@@ -1,5 +1,5 @@
 # 机器人主控制器A6 Series  
-![主视图](https://github.com/MarkChen99/MainCtrl-A6-Series-Release/blob/main/3.Image/A6%20Pro%20Default%20View.PNG)
+![主视图](https://github.com/MarkChen99/MainCtrl-A6/blob/main/3.Image/A6%20Pro%20Default%20View.PNG)
 
 ## 版本差异  
 - 设计理念变更：主控放置点由机器人云台改为机器人底盘  
