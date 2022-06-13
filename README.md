@@ -37,9 +37,7 @@
 
 These PARA only fit module A6 Pro.  
 ## 辅助模块相关 
-- __[调试下载器（开发中）](https://github.com/MarkChen99/Debugger-Insight)__  
-- __[OLED显示器（开发中）](https://github.com/MarkChen99/Screen-Spark)__  
-- __[电源拓展板](https://github.com/MarkChen99/Power-Center)__  
+- __[调试下载器](https://github.com/MarkChen99/Debugger-Insight)__  
 ## 资料相关 
 - __[HI22X系列IMU资料](https://www.hipnuc.com/mkdocs_cn/site/imu_download/)__  
 - __[Readme说明文档](https://github.com/MarkChen99/MainCtrl-A6/tree/main/5.Readme)__  
