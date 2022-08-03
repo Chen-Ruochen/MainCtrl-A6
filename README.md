@@ -39,7 +39,7 @@ These PARA only fit module A6 Pro.
 ## 辅助模块 
 - __[STLINK调试下载器](https://github.com/MarkChen99/Debugger-Insight)__  
 ## 资料 
-- __[HI22X系列IMU资料](https://www.hipnuc.com/mkdocs_cn/site/imu_download/)__  
+- __[HI22X系列IMU资料]([https://www.hipnuc.com/mkdocs_cn/site/imu_download/](https://www.hipnuc.com/contact.html))__  
 - __[Readme说明文档](https://github.com/MarkChen99/MainCtrl-A6/tree/main/5.Readme)__  
 ## 注意事项 
 *近年来现货元器件货源极其不稳定，TB购买的芯片很多都是翻新、假货*  
