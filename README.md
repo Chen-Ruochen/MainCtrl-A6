@@ -36,9 +36,9 @@
 |Iout(3V3)|Output Current in 3V3|||1.5|A|
 
 These PARA only fit module A6 Pro.  
-## 辅助模块相关 
+## 辅助模块 
 - __[STLINK调试下载器](https://github.com/MarkChen99/Debugger-Insight)__  
-## 资料相关 
+## 资料 
 - __[HI22X系列IMU资料](https://www.hipnuc.com/mkdocs_cn/site/imu_download/)__  
 - __[Readme说明文档](https://github.com/MarkChen99/MainCtrl-A6/tree/main/5.Readme)__  
 ## 注意事项 
